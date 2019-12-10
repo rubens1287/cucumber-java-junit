@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="14.531303">
+<testcase classname="Login" name="CT001 - SB - Executar login valido" time="14.531303">
+<system-out><![CDATA[Dado eu estou na pagina de login............................................passed
+Quando eu logar com usuario "nathaly.brasiliano@gft.com" e senha "123@nath".passed
+Entao sera apresentado menu principal.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
